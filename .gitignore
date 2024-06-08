@@ -1,1 +1,8 @@
+# dir
 /venv/
+/__pycache__/
+/migrations/
+
+# files
+*.pyc
+db.*
